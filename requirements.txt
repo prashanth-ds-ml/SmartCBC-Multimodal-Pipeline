@@ -1,0 +1,6 @@
+torch
+torchvision
+ultralytics
+gradio
+pandas
+Pillow
